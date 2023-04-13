@@ -1,0 +1,26 @@
+{
+    "id": "0D7E5B81",
+    "path": "C:/Users/david/OneDrive/Escritorio/Proyecto ebrad 2.0/semanal_ebrard.R",
+    "project_path": "semanal_ebrard.R",
+    "type": "r_source",
+    "hash": "1863136089",
+    "contents": "",
+    "dirty": false,
+    "created": 1679600747524.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "315,1",
+        "scrollLine": "0"
+    },
+    "folds": "0|10|12|60|\n20|29|31|0|\n32|33|35|0|\n36|18|47|0|\n48|43|58|2|\n59|42|69|0|\n70|73|83|0|\n84|30|95|0|\n96|27|116|0|\n117|77|130|0|\n131|29|142|0|\n143|31|163|0|\n164|25|176|2|\n177|33|188|0|\n189|19|197|0|\n198|18|218|0|\n219|46|231|0|\n232|39|253|0|\n254|38|266|0|\n267|38|279|0|\n280|65|299|0|\n300|27|315|1|\n",
+    "lastKnownWriteTime": 1681238322,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1681405355789,
+    "read_only": false,
+    "read_only_alternatives": []
+}
